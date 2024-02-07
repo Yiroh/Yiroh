@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Unity Game Development.<br>👯 I’m looking to collaborate on Open Source projects.<br>🤝 I’m looking for help with finding software engineering internships!<br>🌱 I’m currently learning how to apply Artificial Intelligence.<br>💬 Ask me about collaborating on game development or other projects!<br>⚡ Fun fact: I love otters.<br><br>If you have any internship opportunities available, feel free to reach out to me on GitHub, LinkedIn, or through email!<br>LinkedIn: https://www.linkedin.com/in/joshua-talbot-/<br>Email: joshuatalbot1016@gmail.com<br><br>Thanks for stopping by!
+🔭 I’m currently working on Unity Game Development.<br>👯 I’m looking to collaborate on Open Source projects.<br>🤝 I’m looking for help with finding software engineering internships!<br>🌱 I’m currently learning how to apply Artificial Intelligence in multiple fields.<br>💬 Ask me about collaborating on game development or other projects!<br>⚡ Fun fact: I love otters.<br><br>If you have any internship opportunities available, feel free to reach out to me on GitHub, LinkedIn, or through email!<br>LinkedIn: https://www.linkedin.com/in/joshua-talbot-/<br>Email: joshuatalbot1016@gmail.com<br><br>Thanks for stopping by!
 
 
 ## 🌐 Socials:
