@@ -1,13 +1,20 @@
-# About Me:
-I’m currently working on Unity Game Development.<br>I’m looking to collaborate on Open Source projects.<br>I’m looking for help with finding software engineering jobs! I am also looking for help with learning Godot. <br>I’m currently learning how to apply Artificial Intelligence in multiple fields.<br>Ask me about collaborating on game development or other projects!<br>Fun fact: I love otters.<br>Thanks for stopping by!
+### 👋 Hi, I'm Joshua Talbot!
 
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yiroh&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yiroh&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yiroh&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🌟 Passionate about creating innovative software and games.  
+🎮 Currently developing a **multiplayer racing game in Unity** with AI opponents.  
+💻 Open-source contributor for [Wealthfolio](https://github.com/Yiroh/Wealthfolio), enhancing portfolio management tools.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yiroh&icon=2&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🔧 **Skills**:  
+- Languages: C#, Python, Rust, TypeScript  
+- Game Development: Unity, Godot  
+- Web Dev: React, Node.js  
+- Databases: SQLite, PostgreSQL  
+
+📂 **Featured Projects**:  
+- [Wealthfolio](https://github.com/Yiroh/Wealthfolio): Portfolio management tool (Rust backend, TypeScript frontend)  
+- [Circuit](https://github.com/Yiroh/Circuit): Multiplayer Unity racing game with dynamic AI  
+
+📬 **Let's Connect**:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/joshua-talbot-/)  
