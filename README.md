@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Joshua Talbot!
 
-🌟 Passionate about creating innovative software and games.  
-🎮 Currently developing a **multiplayer racing game in Unity** with AI opponents as well as an idle incremental game.  
-💻 Open-source contributor for [Wealthfolio](https://github.com/Yiroh/Wealthfolio), enhancing portfolio management tools.  
+- Passionate about creating innovative software and games.
+- Currently developing a **multiplayer racing game in Unity** with AI opponents as well as an idle incremental game.
+- Open-source contributor for [Wealthfolio](https://github.com/Yiroh/Wealthfolio), enhancing portfolio management tools.  
 
 ---
 
