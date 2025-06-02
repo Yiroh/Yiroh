@@ -7,8 +7,8 @@
 ---
 
 **Skills**:  
-- Languages: C#, Python, Rust, TypeScript  
-- Game Development: Unity, Godot  
+- Languages: C#, Python, C++, Rust, TypeScript  
+- Game Development: Unity, Godot, OpenGL  
 - Web Dev: React, Node.js  
 - Databases: SQLite, PostgreSQL  
 
